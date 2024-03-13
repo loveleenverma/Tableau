@@ -1,0 +1,11 @@
+﻿BuildingID,BuildingType,ConstructionType,RoofType,Age_of_Wiring,Num_Floors
+cp640092,"Vacant ",Wood Frame,Shed  Roof,13,10
+CV431337,Institutional Building,Ordinary Construction,Metal Roof,9,6
+Ht746866,Institutional Building,Ordinary Construction,Metal   Roof,10,7
+Ih952256,Commercial Building,"Heavy Timber ",Hip  Roof,11,8
+Ju743595,Commercial Building,"Heavy Timber ",Hip Roof,12,9
+mv932627,Industrial Buildings,Non-Combustible,Pitched   Roof,8,5
+Za141339,"Vacant ",Wood Frame,Shed  Roof,14,11
+ZT666657,Residential Building,"Fire-Resistive ",Flat Roof,5,2
+Zu709298,Residential Building,"Fire-Resistive ",Flat Roof,6,3
+Zx103327,Industrial Building,Non-Combustible,Pitched   Roof,7,4

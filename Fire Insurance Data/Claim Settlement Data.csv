@@ -1,0 +1,11 @@
+﻿ClaimID,ClaimAmount,PaymentMethod,ClaimClosure
+11342091,700000.00,Cheque,close
+18461826,150000.00,Cash,open
+18623028,100000.00,Cash,open
+28973750,600000.00,Cheque,open
+36810928,150000.00,Cheque,open
+68143464,400000.00,Cash,close
+87877522,600000.00,Cash,open
+95103045,300000.00,Cash,open
+95885948,200000.00,Cheque,open
+96523496,200000.00,Cash,open

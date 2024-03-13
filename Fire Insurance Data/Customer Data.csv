@@ -1,0 +1,11 @@
+﻿CustomerID,FirstName,LastName,Address,ContactNumber,Email,DOB,Age,Occupation
+ab13832585,Venkata,Rao,"Vizag, Andhra Pradesh",+91 69661 66114,venkata.rao@Tezo.com,1998-01-28,56,Administrator
+cd92116387,Loveleen,Verma,"Ludhiana, Punjab",+91 63501 00815,loveleen.verma@Tezo.com,2002-06-06,25,Representative
+ef13984375,Kiran,Nayadu,"L.B.Nagar, Hyderabad",+91 12760 45517,kiran.nayadu@Tezo.com,1998-07-15,41,Representative
+er77743003,Harika,Gade,"Guntur, Andra Pradesh",+91 42017 59007,harika.gade@Tezo.com,2000-10-29,30,Manager
+fg51480073,Santosh,Sahoo,"Miyapur, Hyderabad",+91 23590 53778,santosh.sahoo@Tezo.com,1998-10-31,22,Officer
+gh36292733,Shalini,Reddy,"Miyapur, Hyderabad",+91 41256 90136,shalini.reddy@Tezo.com,1999-08-08,20,Orchestrator
+iu45466245,Satya,Kirity,"L.B.Nagar, Hyderabad",+91 03875 27903,satya.kirity@Tezo.com,2000-10-15,48,Analyst
+jk91284405,Vasavi,Chiluka,"Miyapur, Hyderabad",+91 41039 14771,vasavi.chiluka@Tezo.com,2002-10-30,44,Officer
+op64051972,Gayatri,Oruganti,"Palasa, Andhra Pradesh",+91 09923 93312,gayatri.oruganti@Tezo.com,1997-07-01,29,Architect
+ui23231942,Sridhar,Patro,"Palasa, Andhra Pradesh",+91 93132 40102,sridhar.patro@Tezo.com,1999-07-22,39,Assistant
